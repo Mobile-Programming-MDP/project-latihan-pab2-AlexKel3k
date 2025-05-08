@@ -1,0 +1,2 @@
+D:/PW1 IF21/pw1/24252-if21-pw1/javascript/project-latihan-pab2-AlexKel3k/fasum_app/android/app/.cxx/Debug/a1k5pk3i/x86/CMakeFiles/edit_cache.dir
+D:/PW1 IF21/pw1/24252-if21-pw1/javascript/project-latihan-pab2-AlexKel3k/fasum_app/android/app/.cxx/Debug/a1k5pk3i/x86/CMakeFiles/rebuild_cache.dir
