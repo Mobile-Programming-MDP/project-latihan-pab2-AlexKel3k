@@ -1,0 +1,2 @@
+D:/erika61/project-latihan-pab2-AlexKel3k/fasum_app/android/app/.cxx/Debug/4i3n4y24/x86/CMakeFiles/edit_cache.dir
+D:/erika61/project-latihan-pab2-AlexKel3k/fasum_app/android/app/.cxx/Debug/4i3n4y24/x86/CMakeFiles/rebuild_cache.dir
